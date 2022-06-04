@@ -1,18 +1,15 @@
-### Hi there, I'm Rakesh 👋
+### Hi there, I'm Ayyan 👋
 
-## I'm a Full-stack Software Developer and Javascript Enthusiast!
-- 🔭 I build projects in free time @ [CodersGyan YouTube channel][website]
+## I'm a Full-stack Web & Odoo Developer!
+- 🔭 I build projects in free time @ [Ayyan Siddiqui][website]
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Reach 100K family at Coder's Gyan. 
+- 👯 Motivated to learn, grow and excel in IT Industry 
+- 🥅 2022 Goals: Focus
 
 ### Connect with me:
 
-[<img align="left" alt="codersgyan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codersgyan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codersgyan | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="codersgyan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Ayyan Siddiqui.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Ayyan Siddiqui | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
@@ -49,14 +46,8 @@
 - [Tailwind css crash course](https://www.youtube.com/watch?v=91evwKVzGRE&list=PLXQpH_kZIxTVc4bayR6EC0X_y_qRxDRyJ)
 <!-- YOUTUBE:END -->
 
-<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=codersgyan&show_icons=true&hide_border=true" />
+<img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayyan Siddiqui&show_icons=true&hide_border=true" />
 
-[website]: https://www.youtube.com/c/codersgyan
-[twitter]: https://twitter.com/CoderGyan
-[facebook]: https://www.facebook.com/codersgyan
-[youtube]: https://www.youtube.com/c/codersgyan
-[instagram]: https://www.instagram.com/codersgyan
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLXQpH_kZIxTVV5iiImYL7cF8qBXmIXfkA
-[jsplaylist]: https://www.youtube.com/watch?v=KlLdNSvmoKI&list=PLXQpH_kZIxTVeSYQXLtpvMBCirxKCxqZz
-[cssplaylist]: https://www.youtube.com/watch?v=wTyyIGZwJg0&t=2487s
-[pizzaseries]: https://www.youtube.com/watch?v=RqiU5nzj_nU
+[website]: https://cvdesignr.com/p/6140340097357
+[instagram]: https://www.instagram.com/ayyan_siddiquii/
+[linkedin]: https://www.linkedin.com/in/ayyan-siddiqui-211547204/
