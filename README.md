@@ -39,13 +39,13 @@
 ---
 
 ### 📺 Latest Projects
-<!-- YOUTUBE:START -->
-- [Complete authentication using Passport JS in Node JS](https://github.com/Ayyan420?tab=repositories)
-- [Realtime chat app using Node js and Socket.io ](https://github.com/Ayyan420?tab=repositories)
-- [Realtime pizza tracker app using websockets and Node Js](https://github.com/Ayyan420?tab=repositories)
-- [Responsive portfolio website using Html, Css and JS (2020)](https://github.com/Ayyan420?tab=repositories)
-- [Tailwind css crash course](https://github.com/Ayyan420?tab=repositories)
-<!-- YOUTUBE:END -->
+- [Plant Leaf Disease Detection Using Machine Learning (2022)](https://github.com/Ayyan420?tab=repositories)
+- [Digital CV PWA](https://github.com/Ayyan420?tab=repositories)
+- [Chapter43 Animated Website](https://github.com/Ayyan420?tab=repositories)
+- [Hyperpay Integartion In Odoo](https://github.com/Ayyan420?tab=repositories)
+- [Travel & Tourism](https://github.com/Ayyan420?tab=repositories)
+- [Historyinurdu Website](https://github.com/Ayyan420?tab=repositories)
+- [Some Useful Odoo Modules you might not want to missed (2022)](https://github.com/Ayyan420?tab=repositories)
 
 <img align="left" alt="Ayyan Siddiqui Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayyan420&show_icons=true&hide_border=true" />
 
