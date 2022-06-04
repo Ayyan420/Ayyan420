@@ -1,7 +1,7 @@
 ### Hi there, I'm Ayyan 👋
 
 ## I'm a Full-stack Web & Odoo Developer!
-- 🔭 I build projects in free time @ [Ayyan Siddiqui][website]
+- 🔭 I build projects in free time @[Ayyan Siddiqui][website]
 - 🌱 I’m currently learning everything 🤣
 - 👯 Motivated to learn, grow and excel in IT Industry 
 - 🥅 2022 Goals: Focus
@@ -48,6 +48,6 @@
 
 <img align="left" alt="coders Gyan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayyan Siddiqui&show_icons=true&hide_border=true" />
 
-[website]: https://cvdesignr.com/p/6140340097357
+[website]: https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Odoo_Web_CV.pdf
 [instagram]: https://www.instagram.com/ayyan_siddiquii/
 [linkedin]: https://www.linkedin.com/in/ayyan-siddiqui-211547204/
