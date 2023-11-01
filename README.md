@@ -1,54 +1,67 @@
-### Hi there, I'm Ayyan 👋
+<h1 align="left"> Hi there 👋 I'm Ayyan Saddiqui </h1>
 
-## I'm a Full-stack Web & Odoo Developer!
-- 🔭 I build projects in free time @[Ayyan Siddiqui][website]
-- 🌱 I’m currently learning everything 🤣
-- 👯 Motivated to learn, grow and excel in IT Industry 
-- 🥅 2022 Goals: Focus
+- 👨🏻‍💻 Full-Stack Odoo & Web Developer
+- 🧠 Over 3+ years of experience with various positions and tech stacks
+- 🤔 Always learning and experimenting
+- 🛣️ Leadership practice
+- ✨ Solve practical, real-world problems
 
-### Connect with me:
+<img align="right" src="https://res.cloudinary.com/dcg3x1e8t/image/upload/v1672565930/istockphoto-1084848808-612x612_pqq8mt.jpg" height="300" width="300">
 
-[<img align="left" alt="Ayyan Siddiqui.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Ayyan Siddiqui | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Ayyan Siddiqui | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+<h3>Where to find me</h3>
+<p>
+  <a href="https://www.linkedin.com/in/ayyan-siddiqui-211547204/" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+<a href="https://github.com/Ayyan420" target="_blank">
+  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
+</a>
+<a href="https://contact.fyi/rylctcvsju" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/website-blue.svg?&style=for-the-badge&logo=Website&logoColor=white" />
+</a>
 
-<br />
+<a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Odoo_Web_CV.pdf" target="_blank">
+  <img alt="Website" src="https://img.shields.io/badge/resume-green.svg?&style=for-the-badge&logo=Resume&logoColor=white" />
+</a>
 
-### Languages and Tools:
+</p>
+<h3>Things I code with</h3>
+<p>
+  <img alt="Odoo Erp" src="https://img.shields.io/badge/-Odoo-714b67?style=flat-square&logo=Odoo&logoColor=black" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-376c99?style=flat-square&logo=Python&logoColor=yellow" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django&logoColor=white" />
+  <img alt="Aws" src="hhttps://img.shields.io/badge/-Aws-orange?style=flat-square&logo=Aws&logoColor=black" />
+  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=black" />
 
-[<img align="left" alt="Odoo" width="26px" src="https://avatars.githubusercontent.com/u/6368483?s=200&v=4" />][website]
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png" />][website]
-[<img align="left" alt="Bitbucket" width="120px" src="https://wac-cdn.atlassian.com/dam/jcr:c942540c-53ae-4357-bffa-ed37739d71b0/bitbucket-atlassian-logo.svg?cdnVersion=372" />][website]
-[<img align="left" alt="Postgresql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
-[<img align="left" alt="Aws" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" />][website]
-[<img align="left" alt="Sublime Text" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sublime-text/sublime-text.png" />][website]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][website]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][website]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
+  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" /> 
+  <img alt="redux toolkit" src="https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux" />
+  <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"
+  />
+  <img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
+   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"
+   />
+   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+   <img alt="github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"
+   />
+</p>
 
-<br />
-<br />
+<h3>Talking about Personal Stuffs:</h3>
 
----
+- 🛠 &nbsp; I’m currently working with Odoo ERP, Python, Django, XML, Javascript, React, <br /> Html, Css, Aws, Rest Api's, PostgresQL, etc.
+- 🌱 &nbsp; I want to learn Cyber Security.
+- 💬 &nbsp; Ask me about anything [here](https://contact.fyi/rylctcvsju)! I am happy to help.
+- 👾 &nbsp; To be or not to be: That is the question 😅.
+- 📫 &nbsp; How to reach me: ayyansaddiqui420@gmail.com.
 
-### 📺 Latest Projects
-- [Plant Leaf Disease Detection Using Machine Learning (2023/2024)](https://github.com/Ayyan420?tab=repositories)
-- [Digital CV PWA](https://github.com/Ayyan420?tab=repositories)
-- [Chapter43 Animated Website](https://github.com/Ayyan420?tab=repositories)
-- [Hyperpay Integartion In Odoo](https://github.com/Ayyan420?tab=repositories)
-- [Travel & Tourism](https://github.com/Ayyan420?tab=repositories)
-- [Historyinurdu Website](https://github.com/Ayyan420?tab=repositories)
-- [Some Useful Odoo Modules you might not want to missed (2022)](https://github.com/Ayyan420?tab=repositories)
+<h3>My Absolute Favorites:</h3>
 
-<img align="left" alt="Ayyan Siddiqui Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayyan420&show_icons=true&hide_border=true" />
-
-[website]: https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Odoo_Web_CV.pdf
-[instagram]: https://www.instagram.com/ayyan_siddiquii/
-[linkedin]: https://www.linkedin.com/in/ayyan-siddiqui-211547204/
+- 💻 &nbsp; I love ❤️ to code.
+- 📰 &nbsp; Reading tech blogs whenever possible, podcast & movies.
+- ✨ &nbsp; Space, Science & Technology
