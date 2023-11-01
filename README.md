@@ -65,8 +65,6 @@
 - 📰 &nbsp; Reading tech blogs whenever possible, podcast & movies.
 - ✨ &nbsp; Space, Science & Technology
 
-<br />
-
 ---
 
 ### 📺 Latest Projects
