@@ -17,7 +17,7 @@
   <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
 </a>
 <a href="https://contact.fyi/rylctcvsju" target="_blank">
-  <img alt="Website" src="https://img.shields.io/badge/website-blue.svg?&style=for-the-badge&logo=Website&logoColor=white" />
+  <img alt="Website" src="https://img.shields.io/badge/website-orange.svg?&style=for-the-badge&logo=Website&logoColor=white" />
 </a>
 
 <a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Odoo_Web_CV.pdf" target="_blank">
