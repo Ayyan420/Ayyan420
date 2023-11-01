@@ -27,7 +27,7 @@
 </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="Odoo Erp" src="https://img.shields.io/badge/-Odoo-ERP-714b67?style=flat-square&logo=Odoo ERP&logoColor=black" />
+  <img alt="Odoo Erp" src="https://img.shields.io/badge/-Odoo%20ERP-714b67?style=flat-square&logo=Odoo%20ERP&logoColor=black" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-376c99?style=flat-square&logo=Python&logoColor=yellow" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=black" />
