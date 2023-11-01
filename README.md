@@ -6,7 +6,7 @@
 - 🛣️ Leadership practice
 - ✨ Solve practical, real-world problems
 
-<img align="right" src="https://res.cloudinary.com/ayyan/image/upload/v1698843669/trxkx6dwweqdaidkxgdn.jpg" height="300" width="300">
+<img align="right" src="https://res.cloudinary.com/ayyan/image/upload/v1698844040/307870095_400405195575740_5521593449668351703_n_a4ybpc.jpg" height="300" width="300">
 
 <h3>Where to find me</h3>
 <p>
