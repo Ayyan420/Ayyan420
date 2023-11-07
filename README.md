@@ -53,7 +53,7 @@
 <h3>Buy Me a Coffee</h3>
 <p>
   <a href="https://www.buymeacoffee.com/ayyan420" target="_blank">
-    <img alt="buymeacoffee" src="https://img.shields.io/badge/-buymeacoffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=white" />
+    <img alt="Buymeacoffee" src="https://img.shields.io/badge/-Buymeacoffee-yellow?style=flat-square&logo=Buymeacoffee&logoColor=white" />
   </a>
 </p>
 <h3>Talking about Personal Stuffs:</h3>
