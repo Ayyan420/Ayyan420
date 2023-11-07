@@ -50,7 +50,12 @@
    <img alt="github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"
    />
 </p>
-
+<h3>Buy Me a Coffee</h3>
+<p>
+  <a href="https://www.buymeacoffee.com/ayyan420" target="_blank">
+    <img alt="buymeacoffee" src="https://img.shields.io/badge/-buymeacoffee-yellow?style=flat-square&logo=buymeacoffee&logoColor=white" />
+  </a>
+</p>
 <h3>Talking about Personal Stuffs:</h3>
 
 - 🛠 &nbsp; I’m currently working with Odoo ERP, Python, Django, XML, Javascript, React, Html, Css, Aws, Rest Api's, PostgresQL, etc.
