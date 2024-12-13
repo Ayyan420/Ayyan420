@@ -33,11 +33,7 @@
   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=black" />
 
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="React Router" src="https://img.shields.io/badge/-React%20Router-CA4245?logo=react-router&logoColor=white" /> 
-  <img alt="redux toolkit" src="https://img.shields.io/badge/Redux-Toolkit-764ABC?logo=redux" />
-  <img alt="React Query" src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white"
-  />
+  
   <img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
@@ -58,8 +54,8 @@
 </p>
 <h3>Talking about Personal Stuffs:</h3>
 
-- 🛠 &nbsp; I’m currently working with Odoo ERP, Python, Django, XML, Javascript, React, Html, Css, Aws, Rest Api's, PostgresQL, etc.
-- 🌱 &nbsp; I want to learn Cyber Security.
+- 🛠 &nbsp; I’m currently working with Odoo ERP, Python, Django, XML, Javascript, OWL, Html, Css, Aws, Rest Api's, PostgresQL, etc.
+- 🌱 &nbsp; I want to learn AI / Deep Learning.
 - 💬 &nbsp; Ask me about anything [here](https://contact.fyi/rylctcvsju)! I am happy to help.
 - 👾 &nbsp; To be or not to be: That is the question 😅.
 - 📫 &nbsp; How to reach me: ayyansaddiqui420@gmail.com.
