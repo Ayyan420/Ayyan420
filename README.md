@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Odoo_Web_CV.pdf" target="_blank">
-  <img alt="Website" src="https://img.shields.io/badge/resume-green.svg?&style=for-the-badge&logo=Resume&logoColor=white" />
+  <img alt="Resume" src="https://img.shields.io/badge/resume-green.svg?&style=for-the-badge&logo=Resume&logoColor=black" />
 </a>
 
 </p>
