@@ -31,6 +31,7 @@
   <img alt="Python" src="https://img.shields.io/badge/-Python-376c99?style=flat-square&logo=Python&logoColor=yellow" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django&logoColor=white" />
   <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=black" />
+  <img alt="Wordpress" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Wordpress&logoColor=black" />
 
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
   
@@ -54,7 +55,7 @@
 </p>
 <h3>Talking about Personal Stuffs:</h3>
 
-- 🛠 &nbsp; I’m currently working with Odoo ERP, Python, Django, XML, Javascript, OWL, Html, Css, Aws, Rest Api's, PostgresQL, etc.
+- 🛠 &nbsp; I’m currently working with Odoo ERP, Python, Django, XML, Wordpress, Javascript, OWL, Html, Css, Aws, Rest Api's, PostgresQL, etc.
 - 🌱 &nbsp; I want to learn AI / Deep Learning.
 - 💬 &nbsp; Ask me about anything [here](https://contact.fyi/rylctcvsju)! I am happy to help.
 - 👾 &nbsp; To be or not to be: That is the question 😅.
