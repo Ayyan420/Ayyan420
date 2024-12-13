@@ -1,7 +1,7 @@
 <h1 align="left"> Hi there 👋 I'm Ayyan Saddiqui </h1>
 
 - 👨🏻‍💻 Full-Stack Odoo & Web Developer
-- 🧠 Over 3+ years of experience with various positions and tech stacks
+- 🧠 Over 4+ years of experience with various positions and tech stacks
 - 🤔 Always learning and experimenting
 - 🛣️ Leadership practice
 - ✨ Solve practical, real-world problems
