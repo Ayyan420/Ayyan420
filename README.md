@@ -23,7 +23,6 @@
 <a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Odoo_Web_CV.pdf" target="_blank">
   <img alt="Resume" src="https://img.shields.io/badge/resume-black.svg?&style=for-the-badge&logo=Resume&logoColor=black" />
 </a>
-<div class="contra-hire-me-button" data-analyticsUserId="42a32472-633c-4beb-86f9-07f0247849bb" data-theme="dark" data-username="ayyan_siddiqui_vw3wa9qh"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
 
 </p>
 <h3>Things I code with</h3>
