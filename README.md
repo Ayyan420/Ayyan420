@@ -71,6 +71,7 @@
 ---
 
 ### 📺 Latest Projects
+- [UPGENIQ (2026)](https://github.com/Ayyan420/upgeniq))
 - [Plant Leaf Disease Detection Using Machine Learning (2023/2024)](https://github.com/Ayyan420?tab=repositories)
 - [Digital CV PWA](https://github.com/Ayyan420?tab=repositories)
 - [Chapter43 Animated Website](https://github.com/Ayyan420?tab=repositories)
