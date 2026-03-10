@@ -20,7 +20,7 @@
   <img alt="Website" src="https://img.shields.io/badge/website-orange.svg?&style=for-the-badge&logo=Website&logoColor=white" />
 </a>
 
-<a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Odoo_Web_CV.pdf" target="_blank">
+<a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Software_Engineer_CV.pdf" target="_blank">
   <img alt="Resume" src="https://img.shields.io/badge/resume-black.svg?&style=for-the-badge&logo=Resume&logoColor=black" />
 </a>
 
