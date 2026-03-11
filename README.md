@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayyan%20Siddiqui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayyan%20Saddiqui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <h2 align="center">Software Engineer | Python Backend Developer | Odoo ERP Specialist</h2>
