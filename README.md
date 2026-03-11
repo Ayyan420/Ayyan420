@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Ayyan Siddiqui</h1>
+<h1 align="center">Hi 👋 I'm Ayyan Saddiqui</h1>
 <h3 align="center">Software Engineer | Python Backend Developer | Odoo ERP Specialist</h3>
 
 <p align="center">
