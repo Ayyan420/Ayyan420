@@ -1,83 +1,179 @@
-<h1 align="left"> Hi there 👋 I'm Ayyan Saddiqui </h1>
-
-- 👨🏻‍💻 Full-Stack Odoo & Web Developer
-- 🧠 Over 4+ years of experience with various positions and tech stacks
-- 🤔 Always learning and experimenting
-- 🛣️ Leadership practice
-- ✨ Solve practical, real-world problems
-
-<img align="right" src="https://res.cloudinary.com/ayyan/image/upload/v1698844577/307870095_400405195575740_5521593449668351703_n_a4ybpc-modified_zztnyr.png" height="300" width="300" style="border-radius: 50%;">
-
-<h3>Where to find me</h3>
-<p>
-  <a href="https://www.linkedin.com/in/ayyan-siddiqui-211547204/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-<a href="https://github.com/Ayyan420" target="_blank">
-  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-</a>
-<a href="https://contact.fyi/rylctcvsju" target="_blank">
-  <img alt="Website" src="https://img.shields.io/badge/website-orange.svg?&style=for-the-badge&logo=Website&logoColor=white" />
-</a>
-
-<a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Software_Engineer_CV.pdf" target="_blank">
-  <img alt="Resume" src="https://img.shields.io/badge/resume-black.svg?&style=for-the-badge&logo=Resume&logoColor=black" />
-</a>
-
+<!-- Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayyan%20Saddiqui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
-<h3>Things I code with</h3>
-<p>
-  <img alt="Odoo Erp" src="https://img.shields.io/badge/-Odoo%20ERP-714b67?style=flat-square&logo=Odoo%20ERP&logoColor=black" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-376c99?style=flat-square&logo=Python&logoColor=yellow" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django&logoColor=white" />
-  <img alt="Bitbucket" src="https://img.shields.io/badge/-Bitbucket-blue?style=flat-square&logo=Bitbucket&logoColor=black" />
-  <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-orange?style=flat-square&logo=Gitlab&logoColor=white" />
-  <img alt="Wordpress" src="https://img.shields.io/badge/-Wordpress-blue?style=flat-square&logo=Wordpress&logoColor=white" />
 
-  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black" />
-  
-  <img alt="Css3" src="https://img.shields.io/badge/-Css-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white" />
-   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"
-   />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-   <img alt="github" src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=GitHub&logoColor=white"
-   />
+<h2 align="center">Software Engineer | Python Backend Developer | Odoo ERP Specialist</h2>
+
+<p align="center">
+Building scalable ERP systems, automation workflows, and AI-powered business tools.
 </p>
-<h3>Buy Me a Coffee</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/ayyan420" target="_blank">
-    <img alt="Buymeacoffee" src="https://img.shields.io/badge/-Buymeacoffee-yellow?style=flat-square&logo=Buymeacoffee&logoColor=white" />
-  </a>
-</p>
-<h3>Talking about Personal Stuffs:</h3>
-
-- 🛠 &nbsp; I’m currently working with Odoo ERP, Python, Django, XML, Wordpress, Javascript, OWL, Html, Css, Aws, Rest Api's, PostgresQL, etc.
-- 🌱 &nbsp; I want to learn AI / Deep Learning.
-- 💬 &nbsp; Ask me about anything [here](https://contact.fyi/rylctcvsju)! I am happy to help.
-- 👾 &nbsp; To be or not to be: That is the question 😅.
-- 📫 &nbsp; How to reach me: ayyansaddiqui420@gmail.com.
-
-<h3>My Absolute Favorites:</h3>
-
-- 💻 &nbsp; I love ❤️ to code.
-- 📰 &nbsp; Reading tech blogs whenever possible, podcast & movies.
-- ✨ &nbsp; Space, Science & Technology
 
 ---
 
-### 📺 Latest Projects
-- [UPGENIQ (2026)](https://github.com/Ayyan420/upgeniq))
-- [Plant Leaf Disease Detection Using Machine Learning (2023/2024)](https://github.com/Ayyan420?tab=repositories)
-- [Digital CV PWA](https://github.com/Ayyan420?tab=repositories)
-- [Chapter43 Animated Website](https://github.com/Ayyan420?tab=repositories)
-- [Hyperpay Integartion In Odoo](https://github.com/Ayyan420?tab=repositories)
-- [Travel & Tourism](https://github.com/Ayyan420?tab=repositories)
-- [Historyinurdu Website](https://github.com/Ayyan420?tab=repositories)
-- [Some Useful Odoo Modules you might not want to missed (2022)](https://github.com/Ayyan420?tab=repositories)
+# 👨‍💻 About Me
 
-<img align="left" alt="Ayyan Siddiqui Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayyan420&show_icons=true&hide_border=true" />
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+- 💼 **Senior Odoo Developer** with **4+ years experience**
+- ⚙️ Specialized in **ERP systems, backend engineering & automation**
+- 🌍 Worked with clients in **Saudi Arabia, Maldives, USA, Africa, Jamaica & Pakistan**
+- 🚀 Founder & Developer of **UPGENIQ – AI Powered SaaS Workspace**
+- 🔗 Built **payment integrations, banking APIs, and enterprise ERP solutions**
+- 🧠 Always learning **AI, automation, and scalable backend architectures**
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayyan-saddiqui-211547204/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayyan%20Saddiqui-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/Ayyan420">
+<img src="https://img.shields.io/badge/GitHub-Ayyan420-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Saddiqui_Software_Engineer_CV.pdf">
+<img src="https://img.shields.io/badge/Resume-Download%20CV-black?style=for-the-badge&logo=readthedocs"/>
+</a>
+
+<a href="mailto:ayyansaddiqui420@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+# 🧰 Tech Stack
+
+### Backend / ERP
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Odoo](https://img.shields.io/badge/Odoo%20ERP-714B67?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript)
+![OWL](https://img.shields.io/badge/Odoo%20OWL%20Framework-purple?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
+
+### DevOps / Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
+
+---
+
+# 🏭 Industry Experience
+
+ERP solutions delivered for industries such as:
+
+✔ Retail & Wholesale  
+✔ Travel & Tourism  
+✔ E-commerce Businesses  
+✔ Pharmacies & Utility Stores  
+✔ Real Estate Companies  
+✔ Solar Energy Providers  
+✔ Software Agencies  
+✔ Manufacturing / Steel Mills  
+
+Including:
+
+- POS customizations for **Maldives clients**
+- **Banking integrations for Saudi Arabia**
+- **ZATCA tax flows**
+- **QuickBooks & Sage integrations**
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 UPGENIQ (AI SaaS Platform)
+
+AI-powered workspace for startups including:
+
+• Marketing AI tools  
+• Smart invoicing & finance  
+• Workflow automation  
+• CRM & growth analytics  
+
+🔗 https://lnkd.in/dThzeNgc
+
+---
+
+## 🌱 Plant Disease Detection AI
+
+Machine Learning system trained on **50,000+ plant images**.
+
+Features:
+
+- Disease detection with **~90% accuracy**
+- Web & Mobile App
+- AI-based prediction engine
+
+---
+
+## ⚙️ Odoo Enterprise Integrations
+
+Projects include:
+
+- Payment gateway integrations
+- Banking APIs
+- POS systems
+- ERP automation systems
+- Enterprise workflow optimization
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayyan420&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayyan420&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+- AI powered SaaS tools
+- Large scale ERP systems
+- Backend system architecture
+- Automation & workflow systems
+
+---
+
+# ☕ Support
+
+<p align="center">
+
+<a href="https://www.buymeacoffee.com/ayyan420">
+<img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
