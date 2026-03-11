@@ -36,8 +36,8 @@ Building scalable ERP systems, automation workflows, and AI-powered business too
 <img src="https://img.shields.io/badge/GitHub-Ayyan420-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://contact.fyi/rylctcvsju">
-<img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge"/>
+<a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Saddiqui_Software_Engineer_CV.pdf">
+<img src="https://img.shields.io/badge/Resume-Download%20CV-black?style=for-the-badge&logo=readthedocs"/>
 </a>
 
 <a href="mailto:ayyansaddiqui420@gmail.com">
