@@ -1,181 +1,179 @@
-<h1 align="center">Hi 👋 I'm Ayyan Saddiqui</h1>
-<h3 align="center">Software Engineer | Python Backend Developer | Odoo ERP Specialist</h3>
+<!-- Banner -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ayyan%20Siddiqui&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<h2 align="center">Software Engineer | Python Backend Developer | Odoo ERP Specialist</h2>
 
 <p align="center">
-Building scalable ERP systems, automation workflows, and business solutions using Python & modern web technologies.
+Building scalable ERP systems, automation workflows, and AI-powered business tools.
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-- 👨‍💻 **Senior Odoo Developer / Software Engineer** with 4+ years of experience  
-- ⚙️ Specialized in **ERP development, automation, and system integrations**
-- 🌍 Worked with clients across **Saudi Arabia, Maldives, USA, Africa, Jamaica, and Pakistan**
-- 🧠 Experienced in building **custom Odoo modules, APIs, payment integrations, and business workflows**
-- 🚀 Founder & Developer of **UPGENIQ – AI Powered Business Workspace**
-- 📈 Passionate about **AI tools, scalable backend systems, and startup products**
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
+- 💼 **Senior Odoo Developer** with **4+ years experience**
+- ⚙️ Specialized in **ERP systems, backend engineering & automation**
+- 🌍 Worked with clients in **Saudi Arabia, Maldives, USA, Africa, Jamaica & Pakistan**
+- 🚀 Founder & Developer of **UPGENIQ – AI Powered SaaS Workspace**
+- 🔗 Built **payment integrations, banking APIs, and enterprise ERP solutions**
+- 🧠 Always learning **AI, automation, and scalable backend architectures**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p>
-<a href="https://www.linkedin.com/in/ayyan-siddiqui-211547204/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<p align="center">
+
+<a href="https://www.linkedin.com/in/ayyan-siddiqui-211547204/">
+<img src="https://img.shields.io/badge/LinkedIn-Ayyan%20Siddiqui-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Ayyan420" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/Ayyan420">
+<img src="https://img.shields.io/badge/GitHub-Ayyan420-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://contact.fyi/rylctcvsju" target="_blank">
-<img src="https://img.shields.io/badge/Website-orange?style=for-the-badge"/>
+<a href="https://contact.fyi/rylctcvsju">
+<img src="https://img.shields.io/badge/Portfolio-Website-orange?style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Siddiqui_Software_Engineer_CV.pdf" target="_blank">
-<img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge"/>
+<a href="mailto:ayyansaddiqui420@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
 </a>
 
 </p>
 
 ---
 
-## 🧰 Tech Stack
+# 🧰 Tech Stack
 
-**Backend & ERP**
-- Python
-- Odoo ERP (Community & Enterprise)
-- PostgreSQL
-- Django
-- Flask
+### Backend / ERP
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![Odoo](https://img.shields.io/badge/Odoo%20ERP-714B67?style=for-the-badge)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 
-**Frontend**
-- JavaScript
-- OWL Framework
-- HTML5
-- CSS3
-- Bootstrap
+### Database
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
 
-**DevOps & Deployment**
-- Docker
-- Linux / Ubuntu
-- Nginx
-- AWS
-- DigitalOcean
-- Linode
+### Frontend
+![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=javascript)
+![OWL](https://img.shields.io/badge/Odoo%20OWL%20Framework-purple?style=for-the-badge)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
 
-**Tools & Version Control**
-- Git
-- GitHub
-- GitLab
-- Bitbucket
-- GitHub Actions
+### DevOps / Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
 
-**Integrations**
-- REST APIs
-- Payment Gateways
-- AI APIs
-- Banking APIs
+### Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket)
 
 ---
 
-## 💼 Industry Experience
+# 🏭 Industry Experience
 
-I have implemented and customized ERP solutions for industries including:
+ERP solutions delivered for industries such as:
 
-- Retail & Wholesale
-- E-commerce
-- Travel & Tourism
-- Pharmacies & Utility Stores
-- Real Estate
-- Solar Energy Companies
-- Software Agencies
-- Manufacturing / Steel Mills
-- Service-based Businesses
+✔ Retail & Wholesale  
+✔ Travel & Tourism  
+✔ E-commerce Businesses  
+✔ Pharmacies & Utility Stores  
+✔ Real Estate Companies  
+✔ Solar Energy Providers  
+✔ Software Agencies  
+✔ Manufacturing / Steel Mills  
 
-Including **POS customizations for Maldives**, **bank integrations for Saudi Arabia**, and **tax compliance systems like ZATCA**.
+Including:
 
----
-
-## 📊 Odoo Functional Expertise
-
-Strong experience working with:
-
-- Sales
-- Purchase
-- Inventory
-- Accounting
-- POS
-- CRM
-- HR & Payroll
-- MRP
-- Projects
-- Helpdesk
-- Website & eCommerce
-- Surveys
-- Dashboards & Reports
+- POS customizations for **Maldives clients**
+- **Banking integrations for Saudi Arabia**
+- **ZATCA tax flows**
+- **QuickBooks & Sage integrations**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🧠 UPGENIQ (AI SaaS Platform)
-AI-powered workspace combining:
+## 🧠 UPGENIQ (AI SaaS Platform)
 
-- Marketing automation
-- Smart invoicing & finance tools
-- AI workflow automation
-- Business analytics
-- CRM and growth planning
+AI-powered workspace for startups including:
+
+• Marketing AI tools  
+• Smart invoicing & finance  
+• Workflow automation  
+• CRM & growth analytics  
 
 🔗 https://lnkd.in/dThzeNgc
 
 ---
 
-### 🌱 Plant Disease Detection (AI / ML)
-Machine learning system trained on **50,000+ plant images** to detect plant diseases with **~90% accuracy**.
+## 🌱 Plant Disease Detection AI
 
-Includes:
-- Web application
-- Mobile application
-- AI image prediction system
+Machine Learning system trained on **50,000+ plant images**.
+
+Features:
+
+- Disease detection with **~90% accuracy**
+- Web & Mobile App
+- AI-based prediction engine
 
 ---
 
-### ⚙️ Odoo ERP Integrations
+## ⚙️ Odoo Enterprise Integrations
+
 Projects include:
 
-- Payment Gateway Integrations
+- Payment gateway integrations
 - Banking APIs
-- POS Customizations
-- Enterprise ERP automation
-- QuickBooks & Sage integrations
+- POS systems
+- ERP automation systems
+- Enterprise workflow optimization
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=Ayyan420&show_icons=true&hide_border=true"/>
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Ayyan420&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayyan420&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## ☕ Support
+# 🎯 Current Focus
 
-If you like my work:
+- AI powered SaaS tools
+- Large scale ERP systems
+- Backend system architecture
+- Automation & workflow systems
+
+---
+
+# ☕ Support
+
+<p align="center">
 
 <a href="https://www.buymeacoffee.com/ayyan420">
 <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-yellow?style=for-the-badge&logo=buy-me-a-coffee"/>
 </a>
 
+</p>
+
 ---
 
-## 🎯 Interests
-
-- Financial & tech podcasts
-- Startup ecosystems
-- AI & automation
-- Space & science
-- Building useful software products
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=120&section=footer"/>
+</p>
