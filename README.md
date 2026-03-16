@@ -134,19 +134,19 @@ Features:
 Odoo AI Copilot — Chat with your Database (AI Business Assistant)**.
 
 With Odoo AI Copilot, you can simply ask things like:
-• “Show me overdue invoices.”
-• “Create a Manufacturing Order for Product X.”
-• “Generate the Profit & Loss for this month.”
-• “List inactive customers.”
+- “Show me overdue invoices.”
+- “Create a Manufacturing Order for Product X.”
+- “Generate the Profit & Loss for this month.”
+- “List inactive customers.”
 …and the AI will understand your database structure and execute the task securely.
 
 🔹 Key Features:
-✅ Agentic AI that can read, analyze, and act inside Odoo
-✅ Conversational AI mode for business questions, email drafting, and translations
-✅ Dynamic schema discovery — learns your custom modules automatically
-✅ Multi-company aware with currency & context detection
-✅ Strict security & approval system before any write/update operation
-✅ Works with OpenAI, Anthropic, Groq, xAI, or local models via Ollama
+- ✅ Agentic AI that can read, analyze, and act inside Odoo
+- ✅ Conversational AI mode for business questions, email drafting, and translations
+- ✅ Dynamic schema discovery — learns your custom modules automatically
+- ✅ Multi-company aware with currency & context detection
+- ✅ Strict security & approval system before any write/update operation
+- ✅ Works with OpenAI, Anthropic, Groq, xAI, or local models via Ollama
 
 🔗 Available on the Odoo Apps Store:
 https://lnkd.in/dPD24WG2
