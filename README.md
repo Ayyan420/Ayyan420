@@ -32,7 +32,7 @@ Building scalable ERP systems, automation workflows, and AI-powered business too
 <img src="https://img.shields.io/badge/LinkedIn-Ayyan%20Saddiqui-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="https://github.com/Ayyan420">
+<a href="https://ayyan420.github.io/ayyan-saddiqui-senior-software-engineer-portfolio/">
 <img src="https://img.shields.io/badge/GitHub-Ayyan420-181717?style=for-the-badge&logo=github"/>
 </a>
 
