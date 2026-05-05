@@ -33,7 +33,7 @@ Building scalable ERP systems, automation workflows, and AI-powered business too
 </a>
 
 <a href="https://ayyan420.github.io/ayyan-saddiqui-senior-software-engineer-portfolio/">
-<img src="https://img.shields.io/badge/GitHub-Ayyan420-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Portfolio-Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Ayyan420/Ayyan420/blob/main/Ayyan_Saddiqui_Software_engineer_CV.pdf">
